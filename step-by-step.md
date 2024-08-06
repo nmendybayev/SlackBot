@@ -118,7 +118,7 @@
 
 ### **The End**
 
-![Completion Image](tada.png)
+![Completion Image](pics/tada.png)
 
 ### help:
 
